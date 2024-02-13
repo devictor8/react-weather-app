@@ -1,8 +1,13 @@
-# React + Vite
+# Weather app
+Mini aplicativo de tempo feito com React JS e consumindo a <a href="https://www.weatherapi.com/">Weather API</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Autores 
 
-Currently, two official plugins are available:
+- Autor inicial: [@manualdodev](https://github.com/manualdodev)
+- [@devictor8](https://www.github.com/devictor8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Tecnológias utilizadas:
+-> React JS <br>
+-> Vite <br>
+-> Tailwind <br>
