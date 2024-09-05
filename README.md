@@ -1,6 +1,6 @@
 # Weather app
-Mini aplicativo de tempo feito com React JS e consumindo a <a href="https://www.weatherapi.com/">Weather API</a>
-
+Mini aplicativo de tempo feito com React JS e consumindo a <a href="https://www.weatherapi.com/">Weather API</a> e estilizada utilizando Tailwind
+ 
 # Autores 
 
 - Autor inicial: [@manualdodev](https://github.com/manualdodev)
@@ -8,6 +8,7 @@ Mini aplicativo de tempo feito com React JS e consumindo a <a href="https://www.
 
 
 # Tecnológias utilizadas:
--> React JS <br>
--> Vite <br>
--> Tailwind <br>
+- JavaScript
+- React JS 
+- Vite 
+- Tailwind 
